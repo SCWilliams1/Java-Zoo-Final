@@ -1,0 +1,24 @@
+10
+-------------------------------------------------------
+Aslan||Wolf||Raw Meat||Forest
+Dorothy||Lion||Raw Meat||Forest
+Bree||Polar Bear||Raw Meat||Forest
+Mauler||Lemur||Fruit||Forest
+Lee||Naked Mole Rat||Termites||Forest
+Blink||Galago||Fruit||Forest
+Blitzen||Reindeer||Lichen||Forest
+Quetzacotl||Axolotl||Reptile Food||Forest
+Coraline||Salamander||Various Insects||Forest
+Jerry||Mantis Shrimp||Raw Fish||Forest
+Yoko Haro||Shark||Raw Fish||Forest
+
+0
+-------------------------------------------------------
+
+5
+-------------------------------------------------------
+Deep Ocean||3||100||5||Deep Ocean
+Desert||100||13||10||Desert
+Forest||21||70||10||Forest
+Ocean||17||100||10||Ocean
+Savanna||25||45||10||Savanna

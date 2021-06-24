@@ -1,0 +1,23 @@
+10
+-------------------------------------------------------
+aslan||wolf||raw meat||forest
+dorothy||lion||raw meat||forest
+bree||polar bear||raw meat||forest
+mauler||lemur||fruit||forest
+lee||naked mole rat||termites||forest
+blink||galago||fruit||forest
+blitzen||reindeer||lichen||forest
+quetzacotl||axolotl||reptile food||forest
+coraline||salamander||various insects||forest
+jerry||mantis shrimp||raw fish||forest
+
+0
+-------------------------------------------------------
+
+5
+-------------------------------------------------------
+deep ocean||3.0||100.0||5||deep ocean
+desert||100.0||13.0||10||desert
+forest||21.0||70.0||10||forest
+ocean||17.0||100.0||10||ocean
+savanna||25.0||45.0||10||savanna
